@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @elvyscruz
-- 👀 I’m interested in Web Technologies
+- 👋 Hi, I’m @elvyscruz, a Web Aficionado. 
+- 👀 Checkout my interactive portolio at https://elvyscruz.github.io/portfolio/
 - 🌱 I’m currently learning a little bit of everything
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me - shoot me an email at elvyscruz at gmail-dot-com
