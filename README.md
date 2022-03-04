@@ -2,7 +2,7 @@
 - 👀 Checkout my interactive portolio at https://elvyscruz.github.io/portfolio/
 - 🌱 I’m currently learning a little bit of everything
 - 💞️ I’m looking to collaborate on interesting projects!
-- 📫 How to reach me - shoot me an email at elvyscruz at gmail-dot-com
+- 📫 How to reach me - You can email me to elvyscruz at gmail.com
 
 <!---
 elvyscruz/elvyscruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
